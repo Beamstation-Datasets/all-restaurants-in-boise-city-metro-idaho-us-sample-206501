@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Metro-wide restaurant data for the Boise City (Metro), Idaho metropolitan area, spanning Boise City. Covers the full metropolitan dining ecosystem of a mid-size metropolitan dining market. Filtered by the Restaurants category group with ratings, review analytics, competitive positioning, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in Boise City (Metro), Idaho, US",
+  "export_job_id": "8327f2ad-6bd7-416e-9a6d-a7a3873c0ce8",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 206501,
+  "location_name": "Boise City, ID",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-boise-city-metro-idaho-us-sample-206501",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/206501/beamstation_206501_restaurants-us-boisecityid_SAMPLE_DIST.csv",
+  "sample_pct": 2.1,
+  "sample_records": 25,
+  "sample_sha256": "253246889ed3d315ed5efa3930ac03b605cd1d8fdaaad70455b29c927f01e9a0",
+  "sample_size_bytes": 115493,
+  "total_records": 1193,
+  "updated_at": "2026-03-31T13:41:21.483181+00:00"
+}

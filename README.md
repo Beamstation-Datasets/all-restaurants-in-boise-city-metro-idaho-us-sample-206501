@@ -1,6 +1,6 @@
 # All Restaurants in Boise City (Metro), Idaho, US
 
-> Free BeamStation sample export with 177 rows and masked direct-contact fields.
+> Free BeamStation sample export with 141 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `206501` |
 | Location | Boise City, ID |
 | Category | Restaurants |
-| Full dataset size | 1,775 records |
-| Free sample size | 177 records (9.97%) |
-| Last export | 2026-04-14T14:10:24.044421+00:00 |
+| Full dataset size | 1,419 records |
+| Free sample size | 141 records (9.94%) |
+| Last export | 2026-04-21T15:12:00.667053+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-boise-city-metro-idaho-us-sample-206501/releases/download/sample-latest/beamstation_206501_restaurants-us-boisecityid_SAMPLE_DIST.csv) |
 
 ## What is in this sample

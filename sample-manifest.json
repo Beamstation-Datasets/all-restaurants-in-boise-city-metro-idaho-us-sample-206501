@@ -1,12 +1,12 @@
 {
-  "export_job_id": "b8796f0d-707a-408b-b9fa-7280bded1224",
+  "export_job_id": "1e3644f0-ae09-41cf-93eb-2dfd0dad2d1b",
   "id_short": 206501,
-  "published_at": "2026-04-28T19:08:19Z",
+  "published_at": "2026-05-06T19:07:13Z",
   "repo_name": "all-restaurants-in-boise-city-metro-idaho-us-sample-206501",
   "sample_asset_name": "beamstation_206501_restaurants-us-boisecityid_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/206501/beamstation_206501_restaurants-us-boisecityid_SAMPLE_DIST.csv",
-  "sample_records": 176,
-  "sample_sha256": "22f7a3159dd300c584b4414774180913821bf9c9cdcc35df702c8a4e9e3adf9d",
-  "sample_size_bytes": 563566,
-  "total_records": 1767
+  "sample_records": 187,
+  "sample_sha256": "96493ce3d1a1f7c0d3fe32efbd80b272d805a7097d08a2560e5f7a557fbf453f",
+  "sample_size_bytes": 670667,
+  "total_records": 1873
 }
